@@ -2,7 +2,7 @@
 :root{
 background-color:rgb(135, 206, 235);
 }
-h1:first-child{
+p:first-of-type{
 background-color:black;
 color:white;
 }
