@@ -21,6 +21,6 @@ li:nth-last-child(3){
     background-color: pink;
 }
 li:first-child,
-        li:last-child {
-            font-size: 22px;
-        }
+li:last-child {
+font-size: 22px;
+}
